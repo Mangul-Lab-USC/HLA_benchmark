@@ -1,0 +1,9 @@
+Tool,TotalCalls,AmbiguousCalls,AmbiguousPct
+arcas,6018,0,0.0
+optitype,3938,0,0.0
+seq2hla,6154,0,0.0
+hlaminer,6307,0,0.0
+phlat,5418,0,0.0
+hlavbseq,5616,0,0.0
+hlahd,5955,0,0.0
+hisat,6200,0,0.0
